@@ -8,3 +8,7 @@ license), `lal-financial-intake` (Financial Discovery Core, intake only),
 the five-skill Drafting Core module, and `lal-case-roadmap` /
 `lal-case-closing` (Roadmap & Case Management). 24 skills total. Paired with
 `lal-mm-reference-sources` v1.0.0.
+
+README updated to note the public standalone mirror of the neutralized master
+family law guide at https://github.com/LAL-SITE/mm-fl-fam-knowledge. No skill
+or reference content changed; no version bump.

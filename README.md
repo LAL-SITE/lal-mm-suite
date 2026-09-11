@@ -67,6 +67,8 @@ against exactly the 24 skills above (see its own `INDEX.md`). Keeping
 references out of this plugin zip keeps plugin sync fast, matching the
 convention used across every Legal Authority Lab suite.
 
+The neutralized master family law guide bundled inside that zip is also maintained as its own public, browsable resource — no download required: https://github.com/LAL-SITE/mm-fl-fam-knowledge. Same content; useful for quick lookups or sharing a single module link with someone who isn't a member.
+
 ## Support
 
 Questions about this edition go through the Mastermind program, not general
