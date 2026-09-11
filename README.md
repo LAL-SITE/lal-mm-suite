@@ -1,12 +1,12 @@
-# LAL Mastermind — Basic Lifecycle Edition
+# LAL Mastermind — AI Paralegal Skills
 
 **Publisher:** Legal Authority Lab — legalauthoritylab.com
-**Plugin name:** `lal-mm-basic-lifecycle`
+**Plugin name:** `lal-mm-ai-paralegal-skills`
 **Version:** 1.0.0
 **Audience:** enrolled members of the Legal Authority Lab Mastermind program
 
 This is a reduced, "starter" edition of the full Legal Authority Lab Florida
-family law skill suites: one basic path through the case lifecycle — intake,
+family law skill suites: one basic path through a case — intake,
 financial-discovery intake, core drafting with prefiling QC, case roadmap,
 and case closing — plus the Core Foundation layer every LAL suite depends
 on. It is provided as part of your Mastermind enrollment. See `LICENSE` for
@@ -55,14 +55,14 @@ the edge of what's included.
    install, builds your Firm Profile (your firm name, attorneys, bar
    numbers, systems — stored in your own document storage, never inside the
    skills), and initializes your matter command center.
-3. Download the companion **LAL Mastermind Reference Library** zip into your
+3. Download the companion **LAL Mastermind Reference Sources** zip into your
    own document storage and tell the installer where you put it — skills
    that cite reference material (brand kit, correspondence, caselaw
    protocol, drafting, financial intake) look for it there.
 
-## Reference library
+## Reference sources
 
-Ships as a separate zip, `lal-mm-reference-library-v1.0.0.zip`, indexed
+Ships as a separate zip, `lal-mm-reference-sources-v1.0.0.zip`, indexed
 against exactly the 24 skills above (see its own `INDEX.md`). Keeping
 references out of this plugin zip keeps plugin sync fast, matching the
 convention used across every Legal Authority Lab suite.
