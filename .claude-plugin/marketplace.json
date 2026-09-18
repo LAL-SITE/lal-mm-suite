@@ -1,0 +1,22 @@
+{
+  "name": "lal-mm-suite",
+  "owner": {
+    "name": "Legal Authority Lab",
+    "url": "https://legalauthoritylab.com"
+  },
+  "version": "1.0.0",
+  "description": "Legal Authority Lab -- Mastermind AI Paralegal Skills. Internal dev/QA marketplace only: real client installs are always performed by LAL over TeamViewer as versioned zip bundles per the lal-suite-packager delivery model, never via marketplace commands on a buyer's own account.",
+  "plugins": [
+    {
+      "name": "lal-mm-ai-paralegal-skills",
+      "source": ".",
+      "description": "LAL Mastermind AI Paralegal Skills — case intake, financial-discovery intake, core drafting/QC, case roadmap and closing, plus the Core Foundation layer. Florida family law.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Legal Authority Lab",
+        "url": "https://legalauthoritylab.com"
+      },
+      "license": "Proprietary — see LICENSE"
+    }
+  ]
+}
