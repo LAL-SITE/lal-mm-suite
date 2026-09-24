@@ -1,2 +1,5 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+# Force LF on checkout so Windows installs (core.autocrlf=true) do not break SKILL.md frontmatter
+* text=auto eol=lf
+*.zip binary
+*.docx binary
+*.pdf binary
