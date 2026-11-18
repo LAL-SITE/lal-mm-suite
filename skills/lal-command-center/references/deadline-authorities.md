@@ -1,5 +1,24 @@
 # Deadline Authorities — Florida Family Law
 
+> **⚠️ RULE CHANGE EFFECTIVE JAN 1, 2027, 12:01 a.m. — Fla. Fam. L. R. P. 12.530 is reorganized** (In re Amendments to Fla. R. Civ. P. 1.530, Small Claims R. 7.180, and Fam. L. R. P. 12.530, No. SC2025-1795, Fla. Nov. 12, 2026). <!-- RULE-12530-UPDATE-2026-11-18 -->
+> **The current text governs until then.** Do not apply the new lettering to a judgment or order governed by the current rule. From 1/1/2027: new trial after a jury verdict is **(a)**; rehearing is **(b)** and "may be directed only to a final judgment or final order"; court-initiated relief is **(c)**; the hearing provision is **(d)**; the motion to alter or amend moves to a later subdivision (letter not confirmed — **ATTORNEY VERIFY**).
+> Unchanged in substance per the Committee Note: 15-day service windows; a challenge to missing required findings must still be raised by motion for rehearing (new **(b)(3)**, "Necessity of Motion"); nonjury sufficiency of the evidence needs no motion. New gate: **is the order a final judgment or final order?** If not, rehearing under 12.530 is the wrong vehicle (reconsideration or another vehicle — attorney's call). New-trial orders must state grounds, **(a)(3)** — narrower wording than former (g), which also named rehearing orders.
+> Source: commentary on the opinion and Bar rule notices; the adopted appendix has not been checked against this note. **ATTORNEY VERIFY every subdivision letter and sub-paragraph number against the adopted rule before citing it.** Not final until the firm's approving attorney signs off. Added 2026-11-18.
+
+> **Current (to 12/31/2026) → new (from 1/1/2027), Fam. L. R. P. 12.530.** Letters below are from commentary on SC2025-1795; sub-paragraph numbers marked † are inferred. **ATTORNEY VERIFY against the adopted appendix.**
+>
+> | Current rule | Subject | From 1/1/2027 |
+> |---|---|---|
+> | (a) | New trial or rehearing; findings-preservation sentence | (a) new trial (jury); (b) rehearing; findings in (b)(3) |
+> | (b) | Served within 15 days | (a)† new trial: 15 days after return of verdict; (b)† rehearing: 15 days after filing of the final judgment or final order ("non-jury action" wording removed) |
+> | (c) | Affidavits (10 days to oppose, up to 20 more) | (a)(2) |
+> | (d) | Court's own initiative, 15 days | (c) — keyed to entry of judgment |
+> | (e) | Sufficiency of the evidence, nonjury | (b)(3) "Necessity of Motion" |
+> | (f) | Court decides whether a hearing is required | (d) |
+> | (g) | Order granting new trial or rehearing must state grounds | (a)(3) — new-trial orders only ("an order") |
+> | (h) | Alter or amend, 15 days after entry | later subdivision, letter unconfirmed; still 15 days after entry of the judgment |
+
+
 Reference for populating `deadlines[]` objects. For each entry: the authority that creates the
 deadline, what it runs from, the computation basis, whether it is jurisdictional, and whether it
 can be enlarged.
